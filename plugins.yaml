@@ -11,11 +11,13 @@ plugins:
 - id: cloudbees-groovy-view
 - id: cloudbees-monitoring
 - id: cloudbees-nodes-plus
+- id: cloudbees-pipeline-policies
 - id: cloudbees-template
 - id: cloudbees-view-creation-filter
 - id: cloudbees-workflow-template
 - id: cloudbees-workflow-ui
 - id: configuration-as-code
+- id: configuration-as-code-groovy
 - id: data-tables-api
 - id: echarts-api
 - id: font-awesome-api
@@ -26,7 +28,6 @@ plugins:
 - id: jquery3-api
 - id: managed-master-hibernation
 - id: maven-plugin
-- id: notification-api
 - id: operations-center-cloud
 - id: operations-center-notification
 - id: pipeline-event-step
